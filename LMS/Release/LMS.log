@@ -1,0 +1,27 @@
+﻿  Login.cpp
+c:\users\dell\source\repos\lms\lms\removemember.h(379): warning C4101: 'ex': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\issuelist.h(30): warning C4101: 'myReader': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\issuelist.h(231): warning C4101: 'myReader': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\removebook.h(422): warning C4101: 'ex': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\depositbook.h(444): warning C4101: 'ex': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\depositbook.h(466): warning C4101: 'depodate': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\depositbook.h(567): warning C4101: 'n2': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\depositbook.h(568): warning C4101: 'n3': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\issuebook.h(420): warning C4101: 'ex': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\issuebook.h(432): warning C4101: 'depodate': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\issuebook.h(474): warning C4101: 'n2': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\issuebook.h(538): warning C4101: 'ex': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\memberlist.h(30): warning C4101: 'myReader': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\memberlist.h(233): warning C4101: 'myReader': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\booklist.h(30): warning C4101: 'myReader': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\booklist.h(232): warning C4101: 'myReader': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\login.h(55): warning C4101: 'ex': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\login.h(429): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\dell\source\repos\lms\lms\login.h(352): warning C4101: 'b': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\login.h(386): warning C4101: 'ex': unreferenced local variable
+c:\users\dell\source\repos\lms\lms\login.h(489): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\dell\source\repos\lms\lms\login.h(491): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\dell\source\repos\lms\lms\login.h(550): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\dell\source\repos\lms\lms\login.h(552): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\dell\source\repos\lms\lms\login.h(615): warning C4101: 'ex': unreferenced local variable
+  LMS.vcxproj -> C:\Users\dell\source\repos\LMS\Release\LMS.exe
